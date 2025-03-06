@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend developer
 ----------------------------
 
-I started getting acquainted with programming right after school when we were learning C++. Then I delved quite deeply into networking, protocols, and Linux systems.at the moment my goal is backend development.
+I started getting acquainted with programming right after school when we were learning C++. Then I delved quite deeply into networking, protocols, and Linux systems. At the moment my goal is backend development.
 
 * 🌍  I'm based in Kyiv , Ukraine
 * ✉️  You can contact me at [its.a.future.20xx@gmail.com](mailto:its.a.future.20xx@gmail.com)
